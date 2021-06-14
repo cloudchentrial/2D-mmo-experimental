@@ -1,8 +1,8 @@
 # Massively-multiplayer-online-beta-version
 
 Motivation
-Inherit traditional culture. Leisure activities.
-傳承傳統文化. 休閒活動.
+Inherit traditional culture. Random activities.
+傳承傳統文化. 隨機活動.
 
 Credits
 Godot Engine.
