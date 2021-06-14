@@ -1,13 +1,14 @@
 # Massively-multiplayer-online-beta-version
 
 Motivation<br> 
-Inherit traditional culture. Random activities.<br> 
-傳承傳統文化. 隨機活動. 隨意人生<br>
+Inherit traditional culture. Random activities. Living expanses. Not sure why still in this planet.<br> 
+傳承傳統文化. 隨機活動. 生活開銷. 不確定在世的原因. <br>
 
 Features<br>
-Real-time and static.<br>
+Real-time and static interaction simutaneously.<br>
+Sub-system integation solutions with GodotEngine.<br>
 Intuitive IDE for similar creations of future.<br>
-Data transfer cost control.
+Data transfer cost control observation.<br>
 
 Credits<br>
 Tools<br>
