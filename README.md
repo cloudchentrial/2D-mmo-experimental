@@ -2,7 +2,7 @@
 
 Motivation<br> 
 Inherit traditional culture. Random activities.<br> 
-傳承傳統文化. 隨機活動. 不明白活著為何<br> 
+傳承傳統文化. 隨機活動. 思考活著的原因<br> 
 
 Credits<br> 
 Godot Engine.<br> 
