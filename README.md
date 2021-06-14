@@ -16,5 +16,5 @@ Problems<br>
 2.Uncomplete sub-system, especially player's skill system.<br> 
 3.No docker use.<br> 
 4.Uncertain maximum players in the same time.<br> 
-5.Reduncy of design speed down performance.
+5.Reduncy of design speed down performance.<br>
 6.Multi-instance operations of server and load balancer from Google Cloud.
