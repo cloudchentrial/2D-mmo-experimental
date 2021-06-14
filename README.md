@@ -23,7 +23,7 @@ Node.js<br>
 gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
-@BriWho for musk-mask collision and local-remote player structure suggests.<br>
+@BriWho for musk-mask collision and local-remote player structuring(for example, use one node acommodate all sub-node).<br>
 Clean code by Robert C Martin.<br>
 Art files<br>
 Kidscancode
