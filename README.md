@@ -1,19 +1,19 @@
 # Massively-multiplayer-online-beta-version
 
-Motivation
-Inherit traditional culture. Random activities.
-傳承傳統文化. 隨機活動.
+Motivation<br> 
+Inherit traditional culture. Random activities.<br> 
+傳承傳統文化. 隨機活動.<br> 
 
-Credits
-Godot Engine.
-Clean code by Uncle bob.
-Node.js
-@BriWho for collision and latency problem.
+Credits<br> 
+Godot Engine.<br> 
+Clean code by Uncle bob.<br> 
+Node.js<br> 
+@BriWho for collision and latency problem.<br> 
 
 
-Problems
-1.Obvious latency.
-2.Uncomplete sub-system, especially player's skill system.
-3.No docker use.
-4.Uncertain maximum players in the same time.
+Problems<br> <br> 
+1.Obvious latency.<br> 
+2.Uncomplete sub-system, especially player's skill system.<br> 
+3.No docker use.<br> 
+4.Uncertain maximum players in the same time.<br> 
 5.Reduncy of design speed down performance.
