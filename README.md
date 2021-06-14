@@ -19,4 +19,4 @@ Problems<br>
 5.Reduncy of design speed down performance.<br>
 6.Multi-instance operations of server and load balancer from Google Cloud.<br>
 7.Standardized development syntax.<br>
-8.Content Creation.
+8.Content Creations.
