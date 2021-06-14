@@ -14,12 +14,13 @@ Sub-system integation solutions with GodotEngine.<br>
 Intuitive IDE for similar creations of future.<br>
 Data transfer cost control observation.<br>
 
-Credits<br>
+Important Credits<br>
 Tools<br>
 Godot Engine<br>
 Node.js<br>
 Evernote<br>
 References<br>
+中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><> 
 @BriWho for collision and latency problem.<br>
 Clean code by Robert C Martin.<br>
 Art files<br>
