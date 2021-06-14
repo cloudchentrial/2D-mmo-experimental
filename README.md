@@ -20,7 +20,7 @@ Godot Engine<br>
 Node.js<br>
 Evernote<br>
 References<br>
-中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><> 
+中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
 @BriWho for collision and latency problem.<br>
 Clean code by Robert C Martin.<br>
 Art files<br>
