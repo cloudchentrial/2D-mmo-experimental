@@ -2,7 +2,7 @@
 
 Motivation<br> 
 Inherit traditional culture. Random activities.<br> 
-傳承傳統文化. 隨機活動.<br> 
+傳承傳統文化. 隨機活動. 不明白活著為何<br> 
 
 Credits<br> 
 Godot Engine.<br> 
@@ -11,7 +11,7 @@ Node.js<br>
 @BriWho for collision and latency problem.<br> 
 
 
-Problems<br> <br> 
+Problems<br> 
 1.Obvious latency.<br> 
 2.Uncomplete sub-system, especially player's skill system.<br> 
 3.No docker use.<br> 
