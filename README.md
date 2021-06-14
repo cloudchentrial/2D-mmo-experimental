@@ -6,6 +6,7 @@ Inherit traditional culture. Random in-home activities. Earn little living expan
 
 Status<br>
 Runnable.
+Several bugs.
 
 Features<br>
 Multi-plaform supported including linux, windows, android, iOS, bsd.<br>
