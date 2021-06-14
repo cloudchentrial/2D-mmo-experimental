@@ -7,6 +7,7 @@ Inherit traditional culture. Random in-home activities. Earn little living expan
 Status<br>
 Runnable.
 Several bugs.
+Not-in-sure of patent conflict.<br>
 
 Features<br>
 Multi-plaform supported including linux, windows, android, iOS, bsd.<br>
@@ -38,4 +39,5 @@ Problems<br>
 7.From local to cloud. From beta to stable with templating.<br>
 8.Standardized development syntax.<br>
 9.Own content creations.<br>
-10.Cost calculation.
+10.Cost calculation.<br>
+11.Design around by enhance uniqueness.
