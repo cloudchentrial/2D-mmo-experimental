@@ -1,7 +1,7 @@
 # Massively-multiplayer-online-beta-version
 
 Motivation<br> 
-Inherit traditional culture. Random in-home activities. Earn little living expanses. Search a reason why still in this planet.<br> 
+Inherit traditional culture. Random in-home activities. Earn little living expanses. Search a reason living in this planet.<br> 
 傳承傳統文化. 隨機家庭活動. 生活開銷. 尋找在世的原因. <br>
 
 Status<br>
