@@ -20,7 +20,6 @@ Important Credits<br>
 Tools/Repos<br>
 Godot Engine<br>
 Node.js<br>
-Evernote<br>
 gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
