@@ -24,10 +24,10 @@ gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
 @BriWho for Layer-mask usage and local-remote player structuring(for example, use one node acommodate all sub-node).<br>
-gdquest's state pattern and so on.
+gdquest's state pattern and so on.<br>
 Clean code by Robert C Martin.<br>
 Art files<br>
-Kidscancode
+Kidscancode<br>
 
 Problems<br>
 1.Obvious latency.<br> 
