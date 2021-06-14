@@ -23,7 +23,8 @@ Node.js<br>
 gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
-@BriWho for musk-mask collision and local-remote player structuring(for example, use one node acommodate all sub-node).<br>
+@BriWho for Layer-mask usage and local-remote player structuring(for example, use one node acommodate all sub-node).<br>
+gdquest's state pattern and so on.
 Clean code by Robert C Martin.<br>
 Art files<br>
 Kidscancode
