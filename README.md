@@ -40,4 +40,4 @@ Problems<br>
 8.Standardized development syntax.<br>
 9.Own content creations.<br>
 10.Cost calculation.<br>
-11.Design around by enhance uniqueness.
+11.Design around by enhancing uniqueness.
