@@ -17,6 +17,6 @@ Problems<br>
 3.No docker use.<br> 
 4.Uncertain maximum players in the same time.<br> 
 5.Reduncy of design speed down performance.<br>
-6.Multi-instance operations of server and load balancer from Google Cloud.
+6.Multi-instance operations of server and load balancer from Google Cloud.<br>
 7.Standardized development syntax.<br>
 8.Content Creation.
