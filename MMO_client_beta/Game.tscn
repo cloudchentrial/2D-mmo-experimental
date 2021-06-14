@@ -1,0 +1,36 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Game.gd" type="Script" id=1]
+[ext_resource path="res://HUD.tscn" type="PackedScene" id=2]
+[ext_resource path="res://GlobalDictionary.gd" type="Script" id=3]
+[ext_resource path="res://Chat.tscn" type="PackedScene" id=4]
+
+[node name="Game" type="Node"]
+script = ExtResource( 1 )
+
+[node name="StartTimer" type="Timer" parent="."]
+wait_time = 2.0
+one_shot = true
+
+[node name="HUD" parent="." instance=ExtResource( 2 )]
+
+[node name="ScoreTimer" type="Timer" parent="."]
+
+[node name="GlobalDictionary" type="Node" parent="."]
+script = ExtResource( 3 )
+
+[node name="Chat" parent="." instance=ExtResource( 4 )]
+show_behind_parent = true
+anchor_top = 1.0
+anchor_right = 0.0
+margin_left = 0.48242
+margin_top = -436.758
+margin_right = 400.482
+margin_bottom = -1.75812
+
+[node name="Slaves" type="Node2D" parent="."]
+show_behind_parent = true
+
+[connection signal="timeout" from="StartTimer" to="." method="_on_StartTimer_timeout"]
+[connection signal="start_game" from="HUD" to="." method="new_game"]
+[connection signal="timeout" from="ScoreTimer" to="." method="_on_ScoreTimer_timeout"]
