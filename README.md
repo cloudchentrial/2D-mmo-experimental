@@ -5,6 +5,7 @@ Inherit traditional culture. Random in-home activities. Earn little living expan
 傳承傳統文化. 隨機家庭活動. 生活開銷. 不確定在世的原因. <br>
 
 Features<br>
+Multi-plaform supported including linux, windows, android, iOS, bsd.<br>
 Real-time and static interaction simutaneously.<br>
 Sub-system integation solutions with GodotEngine.<br>
 Intuitive IDE for similar creations of future.<br>
