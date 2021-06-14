@@ -27,5 +27,7 @@ Problems<br>
 4.Uncertain maximum players in the same time.<br> 
 5.Reduncy of design speed down performance.<br>
 6.Multi-instance operations of server and load balancer from Google Cloud and Alibabalcoud(Unsure).<br>
-7.Standardized development syntax.<br>
-8.Own content creations.
+7.From local to cloud.<br>
+8.Standardized development syntax.<br>
+9.Own content creations.<br>
+10.Cost calculation.
