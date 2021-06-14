@@ -2,7 +2,12 @@
 
 Motivation<br> 
 Inherit traditional culture. Random activities.<br> 
-傳承傳統文化. 隨機活動. 隨意人生<br> 
+傳承傳統文化. 隨機活動. 隨意人生<br>
+
+Features<br>
+Real-time and static.<br>
+Intuitive IDE for similar creations of future.<br>
+Data transfer cost control.
 
 Credits<br>
 Tools<br>
@@ -20,6 +25,6 @@ Problems<br>
 3.No docker use.<br> 
 4.Uncertain maximum players in the same time.<br> 
 5.Reduncy of design speed down performance.<br>
-6.Multi-instance operations of server and load balancer from Google Cloud.<br>
+6.Multi-instance operations of server and load balancer from Google Cloud and Alibabalcoud(Unsure).<br>
 7.Standardized development syntax.<br>
 8.Own content creations.
