@@ -27,14 +27,14 @@ Clean code by Robert C Martin.<br>
 Art files<br>
 Kidscancode<<Dodge the Creeps!>><br>
 
-Problems<br>
+Problems of beta<br>
 1.Obvious latency.<br> 
-2.Uncomplete sub-system, especially player's skill system.<br> 
+2.Uncomplete sub-systems built, especially player's skill system.<br> 
 3.No docker use.<br> 
-4.Uncertain maximum players in the same time.<br> 
+4.Uncertain moving maximum players simutaneously.<br> 
 5.Reduncy of design speed down performance.<br>
 6.Multi-instance operations of server and load balancer from Google Cloud and Alibabalcoud(Unsure).<br>
-7.From local to cloud. From beta to stable with templating.<br>
+7.Deploying from local to cloud. Upgrade from beta to stable with templating and bug fix.<br>
 8.Standardized development syntax.<br>
 9.Own content creations.<br>
 10.Cost calculation.<br>
