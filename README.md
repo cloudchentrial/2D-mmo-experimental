@@ -8,7 +8,7 @@ Several bugs.
 Not-in-sure of patent conflict.<br>
 
 Features<br>
-Multi-plaform supported including linux, windows, android, iOS, bsd.<br>
+Multi-platform supports including linux, windows, android, iOS, bsd.<br>
 Real-time and static interaction simutaneously.<br>
 Sub-system integation solutions with GodotEngine.<br>
 Intuitive IDE for similar creations of future.<br>
