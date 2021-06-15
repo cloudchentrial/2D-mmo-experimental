@@ -15,7 +15,7 @@ Intuitive IDE for similar creations of future.<br>
 Data transfering cost control observation dashboard.<br>
 
 Important Credits<br>
-Tools/Repos<br>
+Tools and Repositories<br>
 Godot Engine<br>
 Node.js<br>
 gd-com<br>
