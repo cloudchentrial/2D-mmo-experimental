@@ -12,7 +12,7 @@ Multi-platform supports including linux, windows, android, iOS, bsd.<br>
 Real-time and static interaction simutaneously.<br>
 Sub-system integation solutions with GodotEngine.<br>
 Intuitive IDE for similar creations of future.<br>
-Data transfering cost control observation.<br>
+Data transfering cost control observation dashboard.<br>
 
 Important Credits<br>
 Tools/Repos<br>
