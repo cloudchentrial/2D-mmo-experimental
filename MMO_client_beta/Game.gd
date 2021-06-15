@@ -1,5 +1,5 @@
 # Copyright @ fool humanoid co., ltd.
-# Do not take or copy any of the code within "MMO_client" project for any commercial use since these are not being authorized to any of the organization and individual.
+# Do not take or copy any of the code within "MMO_client_beta" project for any commercial use since these are not being authorized to any of the organization and individual.
 extends Node
 
 var score
