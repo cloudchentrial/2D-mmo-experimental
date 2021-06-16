@@ -21,10 +21,10 @@ Node.js<br>
 gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
-@BriWho for Layer-mask usage and local-remote player structuring(for example, use one node acommodate all sub-node).<br>
+@BriWho for Layer-mask usage and local-remote player structuring(for example, Acommodate several sub-node under one node).<br>
 gdquest's state pattern and youtube lists.<br>
 Clean code by Robert C Martin.<br>
-Art files<br>
+Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
 
 Problems of beta<br>
