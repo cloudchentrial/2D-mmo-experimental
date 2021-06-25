@@ -1,7 +1,7 @@
 # Massively-multiplayer-online-beta
 
 Motivation<br> 
-Had a dream to complete Taiwanese university degree by self-training. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
+Had a dream to complete Chinese university degree by self-training. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
 
 Status<br>
 Runnable.<br>
