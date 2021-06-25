@@ -3,7 +3,7 @@ Introduction<br>
 An example of MMO creation.<br>
 
 Motivation<br> 
-Had a dream to complete Chinese university degree by self-training. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
+Contributor himself had a dream to complete Chinese university degree by self-training one time in his whole life. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
 
 Status<br>
 Runnable.<br>
