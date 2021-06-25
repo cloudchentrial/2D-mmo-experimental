@@ -28,7 +28,7 @@ Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
 
 Problems of beta<br>
-1.Obvious network connection latency, will be solves very soon.<br> 
+1.Obvious network connection latency, will be solved.<br> 
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
 3.No docker use.<br> 
 4.Uncertain moving maximum players simutaneously.<br> 
