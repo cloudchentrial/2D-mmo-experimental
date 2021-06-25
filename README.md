@@ -1,7 +1,7 @@
 # Massively-multiplayer-online-beta
 
 Motivation<br> 
-Had a dream to complete university degree by self-training. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
+Had a dream to complete Taiwanese university degree by self-training. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
 
 Status<br>
 Runnable.<br>
@@ -27,6 +27,14 @@ gdquest's state pattern and youtube lists.<br>
 Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
+
+Completeness of in-game function<br>
+Complete<br>
+Shooting.<br>
+Unstable-complete<br>
+Moving.<br>
+Uncomplete<br>
+Invisible.<br>
 
 Problems of beta<br>
 1.Obvious network connection latency, will be solved.<br> 
