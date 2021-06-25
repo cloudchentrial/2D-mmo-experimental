@@ -1,6 +1,7 @@
 # Massively-multiplayer-online-beta
 Introduction<br>
-An example of entire MMO creation.<br>
+A secular project.
+Filing example of entire MMO creation.<br>
 
 Motivation<br> 
 Had a dream to complete degree by self-training frugally in his whole life.<br> 
