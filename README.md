@@ -30,7 +30,7 @@ Kidscancode<<Dodge the Creeps!>><br>
 Problems of beta<br>
 1.Obvious network connection latency, will be solved.<br> 
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
-3.No docker use.<br> 
+3.No docker yet in use.<br> 
 4.Uncertain moving maximum players simutaneously.<br> 
 5.Reduncy of design speed down performance.<br>
 6.Multi-instance operations of server and load balancer from Google Cloud and Alibabalcoud(Unsure).<br>
