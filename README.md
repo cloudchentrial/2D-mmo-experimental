@@ -34,7 +34,7 @@ Shooting.<br>
 Unstable-complete<br>
 Moving.<br>
 Uncomplete<br>
-Invisible.<br>
+Getting_invisible.<br>
 
 Problems of beta<br>
 1.Obvious network connection latency, will be solved.<br> 
