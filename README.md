@@ -1,6 +1,7 @@
 # Massively-multiplayer-online-beta-version
 
 Motivation<br> 
+Had a dream to complete university degree by self-training and learning.
 
 Status<br>
 Runnable.
