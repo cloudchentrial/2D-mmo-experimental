@@ -4,8 +4,8 @@ Motivation<br>
 Had a dream to complete university degree by self-training. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
 
 Status<br>
-Runnable.
-Several bugs.
+Runnable.<br>
+Several bugs.<br>
 Not-in-sure of patent conflict.<br>
 
 Features<br>
