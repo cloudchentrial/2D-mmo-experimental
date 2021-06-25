@@ -3,7 +3,8 @@ Introduction<br>
 An example of entire MMO creation.<br>
 
 Motivation<br> 
-Contributor himself had a dream to complete university degree by self-training in his whole life. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
+Had a dream to complete university degree by self-training in his whole life.<br> 
+Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".<br>
 
 Status<br>
 Runnable.<br>
@@ -48,5 +49,5 @@ Problems of beta<br>
 7.Deploying from local to cloud. Upgrade from beta to stable with templating and bug fix.<br>
 8.Standardized development syntax.<br>
 9.Own content creations.<br>
-10.Cost calculation.<br>
+10.Operating-cost observation dashboard.<br>
 11.Design around by enhancing uniqueness.
