@@ -1,4 +1,6 @@
 # Massively-multiplayer-online-beta
+Introduction<br>
+An example of MMO creation.<br>
 
 Motivation<br> 
 Had a dream to complete Chinese university degree by self-training. Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO.".
