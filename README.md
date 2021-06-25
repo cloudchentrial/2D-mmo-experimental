@@ -11,7 +11,7 @@ Not-in-sure of patent conflict.<br>
 Features<br>
 Multi-platform marketing including linux, windows, android, iOS, and bsd.<br>
 Real-time and static interaction simutaneously.<br>
-Sub-system integation solutions with GodotEngine.<br>
+Sub-system intergration solutions with GodotEngine.<br>
 Intuitive IDE for similar creations.<br>
 Data transfering cost control observation dashboard.<br>
 
