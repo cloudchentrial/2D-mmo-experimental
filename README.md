@@ -1,6 +1,6 @@
 # Massively-multiplayer-online-beta
 Introduction<br>
-A secular project.
+An entertainment project.
 Filing example of entire MMO creation.<br>
 
 Motivation<br> 
