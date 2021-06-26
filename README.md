@@ -32,12 +32,13 @@ Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
 
-Completeness of in-game function<br>
+Completeness of in-game functions<br>
 Complete<br>
 Shooting.<br>
 Unstable-complete<br>
 Moving.<br>
 Uncomplete<br>
+Shop system.<br>
 Getting_invisible.<br>
 
 Problems of beta<br>
