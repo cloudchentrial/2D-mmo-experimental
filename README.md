@@ -5,7 +5,7 @@ Filing example of entire MMO creation.<br>
 
 Motivation<br> 
 Had a dream to complete degree by self-training frugally in his whole life.<br> 
-Motivated by Pokemon Go producer John Hanke interview video "Build your first MMO." and CEDEC awards winner 中嶋謙互.<br>
+Sincerely motivated by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Kengo.<br>
 
 Status<br>
 Runnable.<br>
