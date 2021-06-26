@@ -1,6 +1,6 @@
 # Massively-multiplayer-online-beta
 Introduction<br>
-An entertainment project.
+This is an entertainment project.
 Filing example of entire MMO creation.<br>
 
 Motivation<br> 
