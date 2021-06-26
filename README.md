@@ -52,4 +52,5 @@ Problems of beta<br>
 8.Standardized development syntax.<br>
 9.Own content creations.<br>
 10.Operating-cost observation dashboard.<br>
-11.Design around by enhancing uniqueness.
+11.Design around by enhancing uniqueness.<br>
+12.Camera solutions.<br>
