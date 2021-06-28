@@ -4,7 +4,6 @@ System of entertainment project.
 Filing example of entire MMO creation.<br>
 
 Motivation<br> 
-Had a dream to complete degree by self-training frugally in his whole life.<br> 
 Motivated by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
 
 Status<br>
