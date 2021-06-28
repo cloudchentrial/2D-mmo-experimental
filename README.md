@@ -38,7 +38,7 @@ Shooting.<br>
 Unstable-complete<br>
 Moving.<br>
 Uncomplete<br>
-Shop system.<br>
+In-game purchase.<br>
 Getting_invisible.<br>
 Completeness of in-game scene.<br>
 Uncomplete<br>
