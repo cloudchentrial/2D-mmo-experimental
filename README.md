@@ -40,7 +40,7 @@ Unstable-complete<br>
 Moving.<br>
 Uncomplete<br>
 In-game purchase.<br>
-Getting_invisible.<br>
+Getting_invisible.<br><>
 Completeness of in-game scene.<br>
 Uncomplete<br>
 Lobby<br>
