@@ -1,7 +1,8 @@
 # Massively-multiplayer-online-system-beta-note
 Introduction<br>
 System of entertainment project.
-Filing example of entire 2D MMO creation.<br><br>
+Filing example of entire 2D MMO creation.<br>
+Continuously establish common pattern of MMOG developed by pass 50 years.<br>
 
 Details<br>
 Update_rate: 5 times/sec.<br><br>
