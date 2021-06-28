@@ -1,7 +1,7 @@
 # Massively-multiplayer-online-system-beta-note
 Introduction<br>
 System of entertainment project.
-Filing example of entire MMO creation.<br>
+Filing example of entire 2MMO creation.<br>
 
 Motivation<br> 
 Motivated by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
