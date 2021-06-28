@@ -2,7 +2,7 @@
 Introduction<br>
 System of entertainment project.
 Filing example of entire 2D MMO creation.<br>
-Continuously establish common pattern and function of MMOG developed by pass 50 years.<br>
+Continuously establish common pattern and function of MMOG developed by pass 50 years.  However, the fun fact is there is no absolute definition.<br>
 
 Details<br>
 Update_rate: 5 times/sec.<br><br>
