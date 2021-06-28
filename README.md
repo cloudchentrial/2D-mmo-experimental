@@ -1,7 +1,10 @@
 # Massively-multiplayer-online-system-beta-note
 Introduction<br>
 System of entertainment project.
-Filing example of entire 2D MMO creation.<br>
+Filing example of entire 2D MMO creation.<br><br>
+
+Details<br>
+Update_rate: 5 times/sec.<br><br>
 
 Motivation<br> 
 Motivated by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
