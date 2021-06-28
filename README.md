@@ -40,6 +40,11 @@ Moving.<br>
 Uncomplete<br>
 Shop system.<br>
 Getting_invisible.<br>
+Completeness of in-game scene.<br>
+Uncomplete<br>
+Lobby<br>
+Character<br>
+
 
 Problems of beta<br>
 1.Obvious network connection latency, will be solved.<br> 
