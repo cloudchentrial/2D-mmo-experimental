@@ -41,7 +41,7 @@ Moving.<br>
 Uncomplete<br>
 In-game purchase.<br>
 Getting_invisible.<br>
-Line_up.<br><br>
+Draw_a_line.<br><br>
 Completeness of in-game scene.<br>
 Uncomplete<br>
 Lobby<br>
