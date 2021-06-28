@@ -40,11 +40,13 @@ Unstable-complete<br>
 Moving.<br>
 Uncomplete<br>
 In-game purchase.<br>
-Getting_invisible.<br><>
+Getting_invisible.<br>
+Line_up.<br><br>
 Completeness of in-game scene.<br>
 Uncomplete<br>
 Lobby<br>
 Character<br>
+Skills<br>
 
 
 Problems of beta<br>
