@@ -32,6 +32,7 @@ Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
 
+Self-design note.<br>
 Completeness of in-game functions<br>
 Complete<br>
 Shooting.<br>
