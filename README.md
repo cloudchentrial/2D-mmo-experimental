@@ -49,22 +49,24 @@ Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
 
-In-game note.<br>
+In-game content note.<br>
 ====
 Completeness of in-game functions<br>
 Complete<br>
-Shooting.<br>
+ - Shooting.<br>
 Unstable-complete<br>
-Moving.<br>
+ - Moving.<br>
+ - Collide.<br>
 Uncomplete<br>
-In-game purchase.<br>
-Getting_invisible.<br>
-Draw_a_line.<br><br>
+ - In-game purchase.<br>
+ - Getting_invisible.<br>
+ - Draw_a_line.<br>
+ - VFX_call.<br>
 Completeness of in-game scene.<br>
-Uncomplete<br>
-Lobby<br>
-Character<br>
-Skills<br>
+ - Uncomplete<br>
+ - Lobby<br>
+ - Character<br>
+ - Skills<br>
 
 
 Problems of beta<br>
