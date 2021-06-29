@@ -1,21 +1,25 @@
 # Massively-multiplayer-online-system-beta-note
 Introduction<br>
+====
 System of entertainment project.
 Filing example of entire 2D MMO creation.<br>
 Meanwhile, continuously establish common pattern and function of MMOG developed by pass 50 years and future MMOG.  However, the fun fact is there is no absolute definition.<br>
 
-Details<br>
+System note<br>
+====
 Update_rate: 5 times/sec.<br><br>
 
 Motivation<br> 
 Motivated by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
 
 Status<br>
+====
 Runnable.<br>
 Several bugs.<br>
 Not-in-sure of patent conflict.<br>
 
 Features<br>
+====
 Multi-platform marketing including linux, windows, android, iOS, and bsd.<br>
 Real-time and static interaction simutaneously.<br>
 Sub-system intergration solutions with GodotEngine.<br>
@@ -23,6 +27,7 @@ Intuitive IDE for similar creations.<br>
 Data transfering cost control observation dashboard.<br>
 
 Important Credits<br>
+====
 Tools and Repositories<br>
 Godot Engine<br>
 Node.js<br>
@@ -44,7 +49,8 @@ Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
 
-Self-design note.<br>
+In-game note.<br>
+====
 Completeness of in-game functions<br>
 Complete<br>
 Shooting.<br>
@@ -62,6 +68,7 @@ Skills<br>
 
 
 Problems of beta<br>
+====
 1.Obvious network connection latency, will be solved.<br> 
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
 3.No docker yet in use.<br> 
