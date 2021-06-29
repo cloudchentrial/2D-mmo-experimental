@@ -37,7 +37,7 @@ References<br>
  - Layer-mask usage.<br> 
  - Local-remote player structuring(for example, Acommodate several sub-node under one node).<br> 
  - Detailed usage of gd-com repository.<br>
- - Switch-case usage in networking part.<br>
+ - Switch-case usage in networking part.<br><br>
 gdquest's state pattern and youtube lists.<br>
 Clean code by Robert C Martin.<br>
 Artworks citation<br>
