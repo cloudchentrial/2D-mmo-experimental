@@ -30,9 +30,16 @@ gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
 @BriWho:<br>
-Layer-mask usage and local-remote player structuring(for example, Acommodate several sub-node under one node).<br> 
+<div style="padding-left: 30px;">
+Layer-mask usage.<br> 
+Local-remote player structuring(for example, Acommodate several sub-node under one node).<br> 
 Detailed usage of gd-com repo.<br>
 Switch-case usage in networking part.<br>
+Layer-mask usage.<br> 
+Local-remote player structuring(for example, Acommodate several sub-node under one node).<br> 
+Detailed usage of gd-com repository.<br>
+Switch-case usage in networking part.<br>
+</div>
 gdquest's state pattern and youtube lists.<br>
 Clean code by Robert C Martin.<br>
 Artworks citation<br>
