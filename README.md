@@ -9,7 +9,7 @@ Meanwhile, continuously establish common pattern and function of MMOG developed 
 System note<br>
 ====
 Update_rate: 5 times/sec.<br>
-Identical function call between slaves and players.<br>
+Identical function call between slaves and player itself.<br>
 
 Motivation<br> 
 ====
