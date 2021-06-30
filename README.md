@@ -13,7 +13,7 @@ Same function call of slaves and players.<br>
 
 Motivation<br> 
 ====
-Motivated by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
+Strongly inspired by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
 
 Status<br>
 ====
