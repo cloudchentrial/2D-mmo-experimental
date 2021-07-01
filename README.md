@@ -81,7 +81,7 @@ Problems of beta<br>
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
 3.No docker yet in use.<br> 
 4.Uncertain moving maximum players simutaneously.<br> 
-5.Reduncy of design speed down performance.<br>
+5.Redundancy of design speed down performance.<br>
 6.Multi-instance operations of server and load balancer from Google Cloud and Alibabalcoud(Unsure).<br>
 7.Deploying from local to cloud. Upgrade from beta to stable with templating and bug fix.<br>
 8.Standardized development syntax.<br>
