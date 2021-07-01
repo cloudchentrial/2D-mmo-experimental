@@ -89,3 +89,4 @@ Problems of beta<br>
 10.Operating-cost observation dashboard.<br>
 11.Design around by enhancing uniqueness.<br>
 12.Camera solutions.<br>
+13.Not clean.<br> 
