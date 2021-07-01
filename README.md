@@ -66,7 +66,7 @@ Uncomplete<br>
  - In-game purchase.<br>
  - Getting_invisible.<br>
  - Draw_a_line.<br>
- - VFX_call.<br>
+ - Series of VFX_call.<br>
 
 Completeness of in-game scene.<br>
  - Uncomplete<br>
