@@ -1,7 +1,7 @@
 # Massively-multiplayer-online-system-beta-note
 Introduction<br>
 ====
-README show the note of developement which are not yet ready for launching. Thus named it beta.<br>
+README show the note of developement that is not yet ready for launching. Thus named it beta.<br>
 System of entertainment project.
 Filing example of entire 2D MMO creation.<br>
 Meanwhile, continuously establish common pattern and function of MMOG developed by pass 50 years and future MMOG.  However, the fun fact is there is no absolute definition.<br>
