@@ -1,4 +1,6 @@
 # Massively-multiplayer-online-system-beta-note
+Author: Hann-Shyue, Chen
+
 Introduction<br>
 ====
 README show the note of developement that is not yet ready for launching. Thus named it beta.<br>
