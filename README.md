@@ -17,7 +17,7 @@ Why.<br>
 ====
 Nothing else but give a try. Strongly inspired by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
 
-Status since 2018<br>
+Status since 2018 last quarter<br>
 ====
 A simple view.
 ![螢幕擷取畫面 2021-07-06 191425](https://user-images.githubusercontent.com/31240078/124591196-9ca95f00-de8e-11eb-8962-96eb3212de41.jpg)
