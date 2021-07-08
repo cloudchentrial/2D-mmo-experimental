@@ -19,8 +19,9 @@ Nothing else but give a try. Strongly inspired by Pokemon Go producer Mr.John in
 
 Status since 2018 last quarter<br>
 ====
-A simple view.
-![螢幕擷取畫面 2021-07-06 191425](https://user-images.githubusercontent.com/31240078/124591196-9ca95f00-de8e-11eb-8962-96eb3212de41.jpg)
+A simple view of beta (2018.12)
+![screen_shot_old](https://user-images.githubusercontent.com/31240078/124901296-744b6d00-e014-11eb-985a-17145f690933.jpg)
+
 
 Runnable.<br>
 Several bugs.<br>
