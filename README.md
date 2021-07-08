@@ -20,9 +20,6 @@ Nothing. Inspired by Pokemon Go producer Mr.John interview video "Build your fir
 Status since 2018 last quarter<br>
 ====
 A simple view of beta (2018.12)
-![screen_shot_old](https://user-images.githubusercontent.com/31240078/124901296-744b6d00-e014-11eb-985a-17145f690933.jpg)
-![screen_shot_old2](https://user-images.githubusercontent.com/31240078/124902015-1ec39000-e015-11eb-8f7a-e34f35199693.jpg)
-![螢幕擷取畫面 2021-07-08 175034](https://user-images.githubusercontent.com/31240078/124902023-2125ea00-e015-11eb-8a9e-f32e4d919d05.jpg)
 
 
 Runnable.<br>
