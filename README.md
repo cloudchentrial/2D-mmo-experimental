@@ -26,6 +26,7 @@ A simple view of beta (2018.12)
 Runnable.<br>
 Several bugs.<br>
 Not-in-sure of patent conflict.<br>
+Very beginning of prototyping.<br>
 
 Features<br>
 ====
