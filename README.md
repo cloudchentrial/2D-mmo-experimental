@@ -6,7 +6,7 @@ Introduction<br>
 README show the note of developement that is not yet ready for launching.<br>
 System of entertainment project.
 Filing example of entire 2D MMO creation.<br>
-Meanwhile, continuously establish common pattern and function of MMOG developed by pass 50 years and future MMOG.  However, the fun fact is there is no absolute definition.<br>
+Continuously establish common pattern and functions of MMOG developed by pass 50 years and future MMOG. i.e. Filing collective of fully mmo-featured.<br>
 
 System note<br>
 ====
