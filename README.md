@@ -27,6 +27,7 @@ Runnable.<br>
 Several bugs.<br>
 Not-in-sure of patent conflict.<br>
 Very beginning of prototyping.<br>
+Bugs of UI/UX.<br>
 
 Features<br>
 ====
