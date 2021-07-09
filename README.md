@@ -31,7 +31,7 @@ Bugs of UI/UX.<br>
 
 Features<br>
 ====
-Multi-platform marketing including linux, windows, android, iOS, and bsd.<br>
+Multi-platform supporting including linux, windows, android, iOS, and bsd.<br>
 Real-time and static interaction simutaneously.<br>
 Sub-system intergration solutions with GodotEngine.<br>
 Intuitive IDE for similar creations.<br>
