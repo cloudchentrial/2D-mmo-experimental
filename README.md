@@ -64,10 +64,10 @@ In-game content note.<br>
 ====
 Completeness of in-game functions<br>
 Complete<br>
- - Shooting.<br>
+ - Shoots.<br>
 
 Unstable-complete<br>
- - Moving.<br>
+ - Move.<br>
  - Collide.<br>
 
 Uncomplete<br>
