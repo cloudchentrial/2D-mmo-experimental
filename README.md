@@ -11,7 +11,7 @@ Continuously establish common pattern and functions of MMOG developed by pass 50
 System note<br>
 ====
 Update_rate: 5 times/sec.<br>
-Identical function call between slaves and player itself.<br>
+Identical function call between slaves and player self.<br>
 
 Why.<br> 
 ====
