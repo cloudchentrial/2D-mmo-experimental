@@ -68,7 +68,8 @@ Complete<br>
 
 Unstable-complete<br>
  - Move.<br>
- - Collide.<br>
+ - P2P Collide.<br>
+ - P2Thing Collide.<br>
 
 Uncomplete<br>
  - In-game purchase.<br>
