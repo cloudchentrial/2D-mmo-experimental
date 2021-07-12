@@ -99,4 +99,4 @@ Problems of beta<br>
 11.Design around by enhancing uniqueness.<br>
 12.Camera solutions.<br>
 13.Not clean.<br>
-14.Interactive design.<br>
+14.Distributed Interactive Media design.<br>
