@@ -13,9 +13,9 @@ System note<br>
 Update_rate: 5 times/sec.<br>
 Identical function call between slaves and player self.<br>
 
-Why.<br> 
+Respect.<br> 
 ====
-Nothing. Inspired by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
+Inspired by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
 
 Status since 2018 last quarter<br>
 ====
