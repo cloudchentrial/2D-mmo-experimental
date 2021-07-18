@@ -17,7 +17,7 @@ Respect<br>
 ====
 Computer from brand Asus.<br>
 Game producer Mr.John interview video.<br>
-Publication of Awards winner Mr.Nakajima sincerely.<br>
+Publication of CEDEC Awards winner sincerely.<br>
 
 Status since 2018 last quarter<br>
 ====
