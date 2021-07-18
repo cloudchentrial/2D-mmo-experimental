@@ -15,9 +15,9 @@ Identical function call between slaves and player self.<br>
 
 Respect<br> 
 ====
-Computer.<br>
-Producer Mr.John interview video.<br>
-Awards winner Mr.Nakajima sincerely.<br>
+Computer from brand Asus.<br>
+Game producer Mr.John interview video.<br>
+Publication of Awards winner Mr.Nakajima sincerely.<br>
 
 Status since 2018 last quarter<br>
 ====
