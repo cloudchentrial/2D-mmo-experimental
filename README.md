@@ -15,6 +15,7 @@ Identical function call between slaves and player self.<br>
 
 Respect.<br> 
 ====
+New computer.
 Inspired by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
 
 Status since 2018 last quarter<br>
