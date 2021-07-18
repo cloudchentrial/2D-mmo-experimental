@@ -13,10 +13,11 @@ System note<br>
 Dynamic process request updating rate: 5 times/sec.<br>
 Identical function call between slaves and player self.<br>
 
-Respect.<br> 
+Respect<br> 
 ====
-New computer.
-Inspired by Pokemon Go producer Mr.John interview video "Build your first MMO." and CEDEC awards winner Mr.Nakajima sincerely.<br>
+Computer.<br>
+Producer Mr.John interview video.<br>
+Awards winner Mr.Nakajima sincerely.<br>
 
 Status since 2018 last quarter<br>
 ====
