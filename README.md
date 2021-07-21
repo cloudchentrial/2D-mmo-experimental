@@ -21,7 +21,7 @@ Publication of CEDEC Awards winner sincerely.<br>
 
 Status since 2018 last quarter<br>
 ====
-A simple view of beta (2018.12)
+A simple view (2018.12)
 ![screen_shot_beta](https://user-images.githubusercontent.com/31240078/124914627-268a3100-e023-11eb-96ab-74b8d0aa10e2.jpg)
 ![Screen_shot_beat](https://user-images.githubusercontent.com/31240078/124914677-36097a00-e023-11eb-9ee8-061bc630a8ec.jpg)
 
