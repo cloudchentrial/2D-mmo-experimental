@@ -19,7 +19,7 @@ Computer from brand Asus.<br>
 Game producer Mr.John interview video.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
-Status since 2018 last quarter<br>
+Status since 2018 Q4<br>
 ====
 A simple view (2018.12)
 ![screen_shot_beta](https://user-images.githubusercontent.com/31240078/124914627-268a3100-e023-11eb-96ab-74b8d0aa10e2.jpg)
