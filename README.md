@@ -106,3 +106,4 @@ Problems of beta<br>
 TODO
 ====
 1. State Stack implementation.<br>
+2. Node "Playar" substitute GlobalDictionary.tscn/gd
