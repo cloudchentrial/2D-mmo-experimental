@@ -10,7 +10,7 @@ Continuously establish common pattern and functions of MMOG developed by pass 50
 
 System note<br>
 ====
-Dynamic process request updating rate: 5 times/sec.<br>
+Dynamic process updating rate: 5 times/sec.<br>
 Identical function call between slaves and player self.<br>
 
 Respect<br> 
