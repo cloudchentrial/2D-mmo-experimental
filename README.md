@@ -107,3 +107,4 @@ TODO
 1. State Stack implementation.<br>
 2. Node "Playar" substitute GlobalDictionary.tscn/gd
 3. Project MMOCustom.
+4. Try P2P Topology, MMO is unaffordable.
