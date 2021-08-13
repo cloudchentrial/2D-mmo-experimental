@@ -15,7 +15,7 @@ Identical function call between slaves and player self.<br>
 
 Respect<br> 
 ====
-Computer from brand Asus.<br>
+Computer Asus.<br>
 Game producer Mr.John interview video.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
