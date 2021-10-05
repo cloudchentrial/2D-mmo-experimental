@@ -84,7 +84,7 @@ Completeness of in-game scene.<br>
  - Skills<br>
 
 
-Problems of beta<br>
+Problems<br>
 ====
 1.Obvious network connection latency, will be solved.<br> 
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
