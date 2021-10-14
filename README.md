@@ -19,7 +19,7 @@ Computer Asus.<br>
 Game producer Mr.John interview video.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
-Status since 2018 Q4<br>
+Past Status<br>
 ====
 A simple view (2018.12)
 ![2018_10_14](https://user-images.githubusercontent.com/31240078/137329400-551085fe-5256-42b7-85ed-5aacad4a14d1.jpg)
