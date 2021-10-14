@@ -88,7 +88,7 @@ Completeness of in-game scene.<br>
 
 Problems<br>
 ====
-1.Obvious network connection latency, will be solved.<br> 
+1.Obvious network connection latency => will be solved.<br> 
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
 3.No docker yet in use.<br> 
 4.Uncertain moving maximum players simutaneously.<br> 
