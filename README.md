@@ -109,3 +109,4 @@ TODO
 2. Node "Player" substitute GlobalDictionary.tscn/gd
 3. Project MMOCustom.
 4. Try P2P Topology, MMO is unaffordable.
+5. 3 entries, Start, Online World, Company.
