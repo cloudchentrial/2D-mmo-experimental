@@ -16,7 +16,6 @@ Identical function call between slaves and player self.<br>
 Respect<br> 
 ====
 Asus NB.<br>
-Game producer Mr.John interview video.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
 Past Status<br>
