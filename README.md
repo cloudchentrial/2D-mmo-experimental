@@ -39,7 +39,7 @@ Sub-system intergration solutions with GodotEngine.<br>
 Intuitive IDE for similar creations.<br>
 Data transfering cost control observation dashboard.<br>
 
-Important Credits<br>
+Credits<br>
 ====
 Tools and Repositories<br>
 Godot Engine<br>
