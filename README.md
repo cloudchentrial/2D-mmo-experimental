@@ -101,6 +101,7 @@ Problems<br>
 12.Camera solutions.<br>
 13.Not clean.<br>
 14.Distributed Interactive Media design.<br>
+15.Too much transferring manitude of websoceket.
 
 TODO
 ====
@@ -109,3 +110,4 @@ TODO
 3. Project MMOCustom.
 4. Try P2P Topology, MMO is unaffordable.
 5. 3 entries, Start, Online World, Company.
+6. Using TCP streaming insteading of Websocket streaming.
