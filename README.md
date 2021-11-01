@@ -101,7 +101,7 @@ Problems<br>
 12.Camera solutions.<br>
 13.Not clean.<br>
 14.Distributed Interactive Media design.<br>
-15.Too much transferring manitude of websoceket.
+15.Too much data transfer manitude of websoceket.
 
 TODO
 ====
