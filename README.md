@@ -102,6 +102,7 @@ Problems<br>
 13.Not clean.<br>
 14.Distributed Interactive Media design.<br>
 15.Too much data transfer manitude of websoceket.
+16.Double mode, "Single mode" and "Online PvP and Coop"
 
 TODO
 ====
