@@ -1,5 +1,5 @@
 # Massively-multiplayer-online-system-experimental-note
-Author Hann Shyue Chen
+Author
 
 Introduction<br>
 ====
