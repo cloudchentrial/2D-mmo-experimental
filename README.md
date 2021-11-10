@@ -46,8 +46,10 @@ Godot Engine<br>
 Node.js<br>
 gd-com<br>
 References<br>
-中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br> 
-Github@BriWho:<br>
+中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br>
+蔡昇達<<設計模式與遊戲開發的完美結合>>
+Github<br>
+@BriWho:<br>
  - Layer-mask usage.<br> 
  - Local-remote player structuring(for example, Acommodate several sub-node under one node).<br> 
  - Detailed usage of gd-com repo.<br>
