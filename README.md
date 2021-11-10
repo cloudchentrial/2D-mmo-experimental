@@ -47,7 +47,7 @@ Node.js<br>
 gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br>
-蔡昇達<<設計模式與遊戲開發的完美結合>>
+蔡昇達<<設計模式與遊戲開發的完美結合>> <br>
 Github<br>
 @BriWho:<br>
  - Layer-mask usage.<br> 
