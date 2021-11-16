@@ -44,7 +44,7 @@ Credits<br>
 Tools and Repositories<br>
 Godot Engine<br>
 Node.js<br>
-gd-com<br>
+Gd-com<br>
 References<br>
 中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br>
 蔡昇達<<設計模式與遊戲開發的完美結合>> <br>
@@ -58,7 +58,7 @@ Github<br>
  - Detailed usage of gd-com repository.<br>
  - Switch-case usage in networking part.<br>
 
-gdquest's state pattern and youtube lists.<br>
+Gdquest's state pattern and youtube lists.<br>
 Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
