@@ -22,9 +22,6 @@ Past Status<br>
 ====
 A simple view (2018.12)
 ![2018_10_14](https://user-images.githubusercontent.com/31240078/137329400-551085fe-5256-42b7-85ed-5aacad4a14d1.jpg)
-
-
-
 Runnable.<br>
 Several bugs.<br>
 Not-in-sure of patent conflict.<br>
@@ -104,7 +101,7 @@ Problems<br>
 13.Not clean.<br>
 14.Distributed Interactive Media design.<br>
 15.Too much data transfer manitude of websoceket.
-16.Double mode, "Single mode" and "Online PvP and Coop"
+16.Double mode, "Play with bots" and "Online Match"
 
 TODO
 ====
