@@ -112,5 +112,5 @@ TODO
 2. Node "Player" substitute GlobalDictionary.tscn/gd
 3. Project MMOCustom.
 4. Try P2P Topology, MMO is unaffordable.
-5. 3 entries, Start, Online World, Company.
+5. 3 function in Start Scene, Start, Online World, Company.
 6. Using TCP streaming instead of Websocket streaming. And, Compress data transfer.
