@@ -3,7 +3,7 @@ Author
 
 Introduction<br>
 ====
-README shows the note of developement that isn't yet ready for long-term managing.<br>
+README shows the note of development that isn't yet ready for long-term managing.<br>
 System of entertainment project.
 Filing example of entire 2D MMO creation.<br>
 Continuously establish common pattern and functions of MMOG developed by pass 50 years and future MMOG. i.e. Filing collective of fully mmo-featured.<br>
@@ -111,3 +111,7 @@ TODO
 4. Try P2P Topology, MMO is unaffordable.
 5. 3 function in Start Scene, Start, Online World, Company.
 6. Using TCP streaming instead of Websocket streaming. And, Compress data transfer.
+
+3rd parties
+====
+Oauth2
