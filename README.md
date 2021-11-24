@@ -1,6 +1,9 @@
 # Massively multiplayer online system experimental note
 Author
 
+====
+完成預計: 西元2029
+
 Introduction<br>
 ====
 README shows the note of development that isn't yet ready for long-term managing.<br>
