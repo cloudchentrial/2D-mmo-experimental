@@ -1,5 +1,4 @@
-# Copyright @ fool humanoid co., ltd.
-# Do not take or copy any of the code within "MMO_client_beta" project for any commercial use since these are not being authorized to any of the organization and individual.
+# Copyright @
 extends Node
 
 var score
