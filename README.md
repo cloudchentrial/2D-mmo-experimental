@@ -2,7 +2,7 @@
 Author
 
 
-完成預計: 西元2029
+完成預計: 西元
 
 Introduction<br>
 ====
