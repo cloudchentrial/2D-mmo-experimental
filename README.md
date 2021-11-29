@@ -62,6 +62,7 @@ Gdquest's state pattern and youtube lists.<br>
 Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
+Ex roommate Mr. Lan c socket chatting code documentation.<br>
 
 In-game content note.<br>
 ====
