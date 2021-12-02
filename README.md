@@ -116,6 +116,10 @@ TODO
 5. 3 function in Start Scene, Start, Online World, Company.
 6. Using TCP streaming instead of Websocket streaming. And, Compress data transfer.
 
+Network Topology
+====
+
+
 3rd parties
 ====
 Npm <br>
