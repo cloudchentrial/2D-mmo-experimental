@@ -62,7 +62,7 @@ Gdquest's state pattern and youtube lists.<br>
 Clean code by Robert C Martin.<br>
 Artworks citation<br>
 Kidscancode<<Dodge the Creeps!>><br>
-Ex roommate Mr. Lan c socket chat code documentation.<br>
+Ex-roommate Mr. Lan c socket chat code documentation.<br>
 
 In-game content note.<br>
 ====
@@ -105,7 +105,7 @@ Problems<br>
 13.Not clean.<br>
 14.Distributed Interactive Media design.<br>
 15.Too much data transfer manitude of websoceket.
-16.Double mode, "Play with bots" and "Online Match"
+16.Double mode, "Play Levels", "Host", "Find Game" and "Online world".
 
 TODO
 ====
