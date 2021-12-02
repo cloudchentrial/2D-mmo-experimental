@@ -118,6 +118,7 @@ TODO
 
 3rd parties
 ====
+Npm <br>
 Oauth2 <br>
 騰訊廣告 <br>
 Admob <br>
