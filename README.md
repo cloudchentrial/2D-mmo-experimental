@@ -106,6 +106,7 @@ Problems<br>
 14.Distributed Interactive Media design.<br>
 15.Too much data transfer manitude of websoceket.
 16.Double mode, "Play Levels", "Host", "Find Game" and "Online world".
+17.Distributed systems figuring.
 
 TODO
 ====
