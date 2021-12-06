@@ -13,7 +13,7 @@ Continuously establish common pattern and functions of MMOG developed by pass 50
 
 System note<br>
 ====
-Client player status updating rate: 5 times/sec.<br>
+Client actor status updating rate: 5 times/sec.<br>
 Identical function call between slaves and player self.<br>
 
 Respect<br> 
