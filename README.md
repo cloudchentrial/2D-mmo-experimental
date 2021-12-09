@@ -87,6 +87,10 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
+VFX
+====
+Screem Shaking 螢幕震盪 <br>
+
 
 Problems<br>
 ====
