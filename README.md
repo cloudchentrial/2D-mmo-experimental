@@ -47,8 +47,8 @@ Node.js<br>
 Gd-com<br>
 References<br>
 Operating Systems <br>
-中嶋謙互<<オンラインゲームを支える技術－－壮大なプレイ空の舞台裏>><br>
-蔡昇達<<設計模式與遊戲開發的完美結合>> <br>
+中嶋 作者, オンラインゲームを支える技術－－壮大なプレイ空の舞台裏 <br>
+蔡 作者, 設計模式與遊戲開發的完美結合 <br>
 Github<br>
 @BriWho:<br>
  - Layer-mask usage.<br> 
