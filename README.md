@@ -87,7 +87,7 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
-Visual performance and effects
+Visual enhancing and effects
 ====
 Screen Shaking 螢幕震盪 <br>
 
