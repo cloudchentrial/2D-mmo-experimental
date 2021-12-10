@@ -89,7 +89,7 @@ Completeness of in-game scene.<br>
 
 Visual enhancing and effects
 ====
-Screen Shaking 螢幕震盪 <br>
+Screen shake 螢幕震盪 <br>
 
 Clusters
 ====
