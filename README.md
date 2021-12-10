@@ -136,6 +136,6 @@ Oauth2.0 <br>
 Admob <br>
 Adsense <br>
 
-Related IP
+IP
 ====
 Project U <br>
