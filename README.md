@@ -1,4 +1,4 @@
-# Massively multiplayer online system experimental note
+# (Massively) multiplayer online system experimental note
 Author
 
 完成預計: 西元
