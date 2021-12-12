@@ -93,6 +93,10 @@ Screen shake 螢幕震盪 <br>
 Clusters
 ====
 
+Network Topology
+====
+
+
 Unit Test
 ====
 
@@ -125,10 +129,6 @@ TODO
 4. Try P2P Topology, MMO is unaffordable.
 5. 3 function in Start Scene, Start, Online World, Company.
 6. Using TCP streaming instead of Websocket streaming. And, Compress data transfer.
-
-Network Topology
-====
-
 
 3rd parties
 ====
