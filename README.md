@@ -30,7 +30,7 @@ Not-in-sure of patent conflict.<br>
 Very beginning of prototyping.<br>
 Bugs of UI/UX.<br>
 
-Features<br>
+Support and extensions<br>
 ====
 Multi-platform support including linux, windows, android, iOS, and bsd.<br>
 Real-time and static interaction simutaneously.<br>
