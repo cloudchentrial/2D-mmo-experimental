@@ -7,7 +7,7 @@ Introduction<br>
 ====
 README shows the note of development that isn't yet ready for long-term managing.<br>
 System of entertainment project.
-Filing example of entire 2D MMO creation.<br>
+Filing example of entire 2D MMO plain creation and its related.<br>
 Continuously establish common pattern and functions of MMOG developed by pass 50 years and future MMOG. i.e. Filing collective of mmo-featured.<br>
 
 System note<br>
