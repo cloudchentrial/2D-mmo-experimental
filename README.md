@@ -88,7 +88,12 @@ Completeness of in-game scene.<br>
 
 Realistic visual enhancement and effects
 ====
-Screen shake 螢幕震盪 <br>
+Screen shake and smooth 螢幕震盪與順移 <br>
+Lighting <br>
+Shadow <br>
+Atmosphere <br>
+Geometry <br>
+Physics <br>
 
 Clusters and worker thread
 ====
