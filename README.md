@@ -88,7 +88,7 @@ Completeness of in-game scene.<br>
 
 Realistic visual enhancement and effects
 ====
-Screen shake and smooth 螢幕震盪與順移 <br>
+Screen controlling shake 螢幕控制震盪 <br>
 Lighting <br>
 Shadow <br>
 Atmosphere <br>
