@@ -90,7 +90,7 @@ Realistic visual enhancement and effects
 ====
 Screen shake 螢幕震盪 <br>
 
-Clusters
+Clusters and worker thread
 ====
 
 Network Topology
