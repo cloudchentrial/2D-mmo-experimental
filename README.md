@@ -63,7 +63,7 @@ Artworks citation<br>
 Kidscancode <Dodge the Creeps!> <br>
 Ex-roommate Mr. Lan c socket chat code documentation.<br>
 
-In-game content note.<br>
+In-game content note<br>
 ====
 Completeness of in-game functions<br>
 Complete<br>
@@ -99,11 +99,11 @@ Particle Motions Lighting <br>
 Clusters and worker thread
 ====
 
-Network Topology
+Network topology
 ====
 
 
-Unit Tests, Stress Testing
+Unit tests, Stress testing
 ====
 
 
