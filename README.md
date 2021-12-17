@@ -15,6 +15,7 @@ System note<br>
 Client actor status updating rate: 5 times/sec.<br>
 Identical function call between slaves and player self.<br>
 長短線信號分布. <br>
+長-ws, 短-tcp. <br>
 
 Respect<br> 
 ====
