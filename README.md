@@ -86,7 +86,7 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
-Realistic visual enhancement and effects
+Realistic trend visual enhancement and effects
 ====
 Camera controlling shake 螢幕控制震盪 <br>
 Renderer <br>
