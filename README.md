@@ -3,8 +3,6 @@ Author
 
 完成預計: 西元
 
-Jobs: All-in-one, and trial.
-
 Introduction<br>
 ====
 README shows the note of development that isn't yet ready for long-term managing.<br>
