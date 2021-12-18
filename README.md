@@ -3,7 +3,7 @@ Author
 
 完成預計: 西元
 
-Jobs: All-in-one and trial.
+Jobs: All-in-one, and trial.
 
 Introduction<br>
 ====
