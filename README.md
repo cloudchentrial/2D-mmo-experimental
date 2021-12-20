@@ -89,7 +89,7 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
-Realistic trend visual enhancement and effects
+Realistic tend visual enhancement and effects
 ====
 Camera controlling shake 螢幕控制震盪 <br>
 Camera Controlling stun <br>
@@ -100,6 +100,8 @@ Atmosphere <br>
 Geometry <br>
 Physics <br>
 Particle Motions Lighting <br>
+Details <br>
+Metaverse <br>
 
 Clusters and worker thread 分布
 ====
