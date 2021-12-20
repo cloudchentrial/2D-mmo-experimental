@@ -2,7 +2,6 @@
 Author
 
 完成預計: 西元
-佛系, 2018到2021現在沒有進步.
 
 Introduction<br>
 ====
