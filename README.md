@@ -100,8 +100,8 @@ Atmosphere <br>
 Geometry <br>
 Physics <br>
 Particle Motions Lighting <br>
-Details <br>
-OpenXR Metaverse <br>
+OpenXR detailed check <br>
+Metaverse's OpenXR <br>
 
 Clusters and worker thread 分布
 ====
