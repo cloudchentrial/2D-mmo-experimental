@@ -121,6 +121,9 @@ Metaverse powered by ethereum implement Virtual Social Metaverse
 ====
 虛擬社群元宇宙
 
+虛擬世界採收現實農作物
+====
+
 Problems<br>
 ====
 1.Obvious network connection latency => will be solved.<br> 
