@@ -89,7 +89,7 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
-Realistic tend visual enhancement and effects
+Realistic tend visual enhancement and dynamic effects
 ====
 Camera controlling shake 螢幕控制震盪 <br>
 Camera Controlling stun <br>
