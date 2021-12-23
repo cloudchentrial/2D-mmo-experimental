@@ -102,7 +102,6 @@ Physics <br>
 Particle Motions Lighting <br>
 OpenXR detailed check <br>
 OpenXR visual <br>
-Metaverse's OpenXR <br>
 
 Clusters and worker thread 分布
 ====
