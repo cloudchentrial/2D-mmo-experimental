@@ -91,7 +91,6 @@ Completeness of in-game scene.<br>
 
 Realistic tend visual enhancement and effects
 ====
-亞洲風格<br>
 Camera controlling shake 螢幕控制震盪 <br>
 Camera Controlling stun <br>
 Renderer <br>
