@@ -117,7 +117,7 @@ Network topology
 Unit tests, Stress testing
 ====
 
-Metaverse powered by ethereum
+Metaverse powered by ethereum implement Virtual Social Metaverse
 ====
 
 
