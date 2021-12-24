@@ -89,6 +89,10 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
+Artisitc
+====
+中古科幻, 龐克
+
 Realistic tend visual enhancement and dynamic effects
 ====
 Camera controlling shake 螢幕控制震盪 <br>
