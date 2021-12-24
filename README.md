@@ -1,7 +1,7 @@
 # (Massively) multiplayer online system experimental note
 Author
 
-完成預計: 西元
+實現預計: 西元2022至2040
 
 Introduction<br>
 ====
