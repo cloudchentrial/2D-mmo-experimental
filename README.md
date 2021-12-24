@@ -18,6 +18,9 @@ Identical function call between slaves and player self.<br>
 長短線信號分布. <br>
 長-ws, 短-tcp. <br>
 
+Structuring
+====
+
 Respect<br> 
 ====
 Asus NB.<br>
