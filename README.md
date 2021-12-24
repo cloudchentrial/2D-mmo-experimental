@@ -99,7 +99,7 @@ Artistic
 Artistic with pytorch powering
 ====
 
-Photorealistic dynamic effects
+Photorealistic and lighting
 ====
 Camera controlling shake 螢幕控制震盪 <br>
 Camera Controlling stun <br>
