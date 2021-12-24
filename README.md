@@ -92,9 +92,12 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
-Artisitc
+Artistic
 ====
 城市
+
+Artistic with pytorch powering
+====
 
 Realistic tend visual enhancement and dynamic effects
 ====
