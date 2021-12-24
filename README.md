@@ -99,7 +99,7 @@ Artistic
 Artistic with pytorch powering
 ====
 
-Realistic tend visual enhancement and dynamic effects
+Photorealistic dynamic effects
 ====
 Camera controlling shake 螢幕控制震盪 <br>
 Camera Controlling stun <br>
@@ -112,6 +112,7 @@ Physics <br>
 Particle Motions Lighting <br>
 OpenXR detailed check <br>
 OpenXR visual <br>
+光照細節處理與將高細節源材料導入技術<br>
 
 Clusters and worker thread 分布
 ====
