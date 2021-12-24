@@ -91,7 +91,7 @@ Completeness of in-game scene.<br>
 
 Artisitc
 ====
-中古科幻, 龐克
+中古科幻, 龐克, 大航海時代
 
 Realistic tend visual enhancement and dynamic effects
 ====
