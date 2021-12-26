@@ -95,7 +95,7 @@ Artistic
 Artistic with pytorch powering
 ====
 
-Photorealistic and lighting
+Photorealistic and lighting process
 ====
 Camera controlling shake 螢幕控制震盪 <br>
 Camera Controlling stun <br>
