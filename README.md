@@ -21,10 +21,6 @@ Identical function call between slaves and player self.<br>
 Structure
 ====
 
-Respect<br> 
-====
-Asus NB.<br>
-Publication of CEDEC Awards winner sincerely.<br>
 
 Past Status<br>
 ====
@@ -151,6 +147,11 @@ Problems<br>
 15.Too much data transfer manitude of websoceket.
 16.Double mode, "Play Levels", "Host", "Find Game" and "Online world".
 17.Distributed systems figuring.
+
+Respect<br> 
+====
+Asus NB.<br>
+Publication of CEDEC Awards winner sincerely.<br>
 
 TODO
 ====
