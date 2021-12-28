@@ -98,7 +98,7 @@ Artistic
 
 Advanced
 ====
-Deep learning in 3D, 3D reconstruction .
+Deep learning in 3D, 3D reconstruction from few real-world object photo.
 
 Photorealistic and lighting process
 ====
