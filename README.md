@@ -3,6 +3,10 @@ Author
 
 實現預計: 西元2022至2040
 
+Layer
+====
+Upon Godot middleware.
+
 Introduction<br>
 ====
 README shows the note of development that isn't yet ready for long-term managing.<br>
