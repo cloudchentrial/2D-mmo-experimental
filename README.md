@@ -96,8 +96,6 @@ Artistic
 ====
 城市
 
-Artistic with pytorch powering
-====
 
 Photorealistic and lighting process
 ====
