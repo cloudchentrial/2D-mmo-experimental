@@ -40,6 +40,7 @@ Status and issues<br>
  - Potential less of initial structure<br>
  - In-game player data unlocalized<br> 
  - Flicker issues.<br>
+
 Available<br>
  - Online constantly player move.<br>
  - Zh, Eng chat subsystem in global.<br>
