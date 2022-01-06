@@ -42,9 +42,9 @@ Status and issues<br>
  - Flicker issues.<br>
 
 Available<br>
- - Online constantly player move.<br>
+ - Online player move constantly.<br>
  - Zh, Eng chat online subsystem in global.<br>
- - Timer<br>
+ - Timer built.<br>
 
 Support and extensions<br>
 ====
