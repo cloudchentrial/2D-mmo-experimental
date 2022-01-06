@@ -28,13 +28,22 @@ Structure
 
 Status timeline<br>
 ====
-A simple view (2018.12)
+2018.12.01
 ![2018_10_14](https://user-images.githubusercontent.com/31240078/137329400-551085fe-5256-42b7-85ed-5aacad4a14d1.jpg)
-Runnable.<br>
-Several bugs.<br>
-Not-in-sure of patent conflict.<br>
-Very beginning of prototyping.<br>
-Bugs of UI/UX.<br>
+Status and issues<br>
+ - Runnable.<br>
+ - Several bugs.<br>
+ - Not-in-sure of patent conflict.<br>
+ - Very beginning of prototyping.<br>
+ - Bugs of UI/UX.<br>
+ - Collide detection deny<br>
+ - Potential less of initial structure<br>
+ - In-game player data unlocalized<br> 
+ - Flicker issues.<br>
+Available<br>
+ - Online constantly player move.<br>
+ - Zh, Eng chat subsystem in global.<br>
+ - Timer<br>
 
 Support and extensions<br>
 ====
