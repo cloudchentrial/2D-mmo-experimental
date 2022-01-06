@@ -43,7 +43,7 @@ Status and issues<br>
 
 Available<br>
  - Online constantly player move.<br>
- - Zh, Eng chat subsystem in global.<br>
+ - Zh, Eng chat online subsystem in global.<br>
  - Timer<br>
 
 Support and extensions<br>
