@@ -45,6 +45,7 @@ Available<br>
  - Online player move constantly.<br>
  - Zh, Eng chat online subsystem in global.<br>
  - Timer built.<br>
+ - Shoot and online collide detection.<br>
 
 Support and extensions<br>
 ====
