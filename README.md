@@ -169,7 +169,7 @@ Problems<br>
 
 Respect<br> 
 ====
-Asus NB.<br>
+NB.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
 TODO
