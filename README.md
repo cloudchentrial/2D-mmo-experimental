@@ -1,4 +1,4 @@
-# (Massively) multiplayer online experimental note
+# Multiplayer online experimental note
 Author
 
 實現預計: 西元2022至2040
@@ -40,6 +40,7 @@ Status and issues<br>
  - Potential less of initial structure<br>
  - In-game player data unlocalized<br> 
  - Flicker issues.<br>
+ - Matching queue.<br>
 
 Available<br>
  - Online player move constantly.<br>
