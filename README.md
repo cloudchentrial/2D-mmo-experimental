@@ -129,7 +129,10 @@ OpenXR detailed check <br>
 OpenXR visual <br>
 光照細節處理與將高細節源材料導入技術<br>
 
-Clusters and worker thread 分布
+Clusters 分布
+====
+
+Backend worker thread 分布
 ====
 
 Client thread 分布
