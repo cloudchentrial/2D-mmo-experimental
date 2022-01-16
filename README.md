@@ -108,7 +108,7 @@ Completeness of in-game scene.<br>
 
 Artistic
 ====
-城市
+
 
 Advanced
 ====
