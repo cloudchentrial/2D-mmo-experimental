@@ -41,7 +41,7 @@ Status and issues<br>
  - In-game player data unlocalized<br> 
  - Flicker issues.<br>
  - Matching queue.<br>
- - Readme note complete.<br>
+ - Readme note incomplete.<br>
 
 Available<br>
  - Online player move constantly.<br>
