@@ -64,10 +64,10 @@ Godot Engine<br>
 Node.js<br>
 Gd-com<br>
 References<br>
-Operating stems <br>
 Books<br>
-オンラインゲームを支える技術　　－－壮大なプレイ空間の舞台 <br>
-設計模式與遊戲開發的完美結合 <br>
+-オンラインゲームを支える技術　　－－壮大なプレイ空間の舞台 <br>
+-設計模式與遊戲開發的完美結合 <br>
+-Operating systems <br>
 Github<br>
 @BriWho:<br>
  - Layer-mask usage.<br> 
