@@ -17,12 +17,13 @@ Continuously establish common pattern and functions of MMOG developed by pass 50
 System note<br>
 ====
 Client actor status updating rate: 5 times/sec.<br>
-2 times/sec 至 5 times/sec 動態降低資料傳送成本目的. <br>
-Identical function call between slaves and player self.<br>
+2 times/sec ~ 5 times/sec 
+動態降低資料傳送成本目的. <br>
 長短線信號分布. <br>
 長-ws, 短-tcp. <br>
+Identical function call between slaves and player self.<br>
 
-Structure
+Structures
 ====
 
 
