@@ -130,20 +130,20 @@ OpenXR detailed check <br>
 OpenXR visual <br>
 光照細節處理與將高細節源材料導入技術<br>
 
-Backend clusters 分布
+Backend clusters compute distribution 分布
 ====
 
-Backend worker thread 分布
+Backend worker thread compute distribution 分布
 ====
 
-Client thread 分布
+Client thread compute distribution 分布
 ====
 
 Network topology
 ====
 
 
-Unit tests, Stress testing
+Unit tests and stress testing
 ====
 
 Database
