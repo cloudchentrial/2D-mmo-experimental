@@ -14,8 +14,6 @@ System of entertainment project.
 Filing example of entire 2D MMO plain creation and its related.<br>
 Continuously establish common pattern and functions of MMOG developed by pass 50 years and future MMOG. i.e. Filing collective of mmo-featured.<br>
 
-MMO on EV plaform
-====
 
 System note<br>
 ====
