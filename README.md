@@ -110,7 +110,7 @@ Completeness of in-game scene.<br>
 
 Artistic
 ====
-Atomic Blonde
+Movie and car.
 
 Advanced
 ====
