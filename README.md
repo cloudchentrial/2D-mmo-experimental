@@ -1,4 +1,4 @@
-# Massively multiplayer online experimental note
+# Massively multiplayer (multi-terminal) online experimental note
 Author
 
 實現預計: 西元2022至2040
