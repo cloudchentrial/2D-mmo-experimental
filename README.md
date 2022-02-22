@@ -15,7 +15,7 @@ Filing example of entire 2D MMO plain creation and its related.<br>
 Continuously establish common pattern and functions of MMOG developed by pass 50 years and future MMOG. i.e. Filing collective of mmo-featured.<br>
 
 
-System note<br>
+Main system <br>
 ====
 Client actor status updating rate: 5 times/sec. <br>
 2 times/sec ~ 5 times/sec <br>
@@ -23,6 +23,9 @@ Client actor status updating rate: 5 times/sec. <br>
 長短線信號分布. <br>
 長-ws, 短-tcp. <br>
 Identical function call between slaves and player self.<br>
+
+Protocol Engineering <br>
+====
 
 Structures
 ====
