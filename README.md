@@ -109,7 +109,7 @@ Completeness of in-game scene.<br>
 
 Artistic
 ====
-Movie and car.
+Dive into: 偵探類. Scorpio.
 
 Advanced
 ====
