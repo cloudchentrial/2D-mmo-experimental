@@ -151,8 +151,7 @@ Database
 
 Metaverse powered by ethereum for implementing virtual social
 ====
-虛擬社群元宇宙 <br>
-(Cyber Physics Virutal System)虛擬世界採收現實農作物
+NFT contained.
 
 Problems<br>
 ====
