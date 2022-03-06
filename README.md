@@ -24,7 +24,7 @@ Client actor status updating rate: 5 times/sec. <br>
 長-ws, 短-tcp. <br>
 Identical function call between slaves and player self.<br>
 
-Protocol Engineering <br>
+Protocol engineering <br>
 ====
 
 Status timeline<br>
