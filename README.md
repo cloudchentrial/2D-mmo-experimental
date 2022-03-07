@@ -178,6 +178,9 @@ Respect<br>
 NB.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
+Topics of decentralized and permanent.
+====
+
 TODO
 ====
 1. State Stack implementation.<br>
