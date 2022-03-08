@@ -149,9 +149,6 @@ Unit tests and stress testing
 Database
 ====
 
-Decentralized and permenant state.
-====
-NFT contained.
 
 Physical instrument
 ====
@@ -182,8 +179,9 @@ Respect<br>
 NB.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
-Topics of decentralized and permanent.
+Decentralized and permanent.
 ====
+NFT contained.
 
 TODO
 ====
