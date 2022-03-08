@@ -149,9 +149,13 @@ Unit tests and stress testing
 Database
 ====
 
-Metaverse powered by ethereum for implementing virtual social
+Decentralized and permenant state.
 ====
 NFT contained.
+
+Physical instrument
+====
+PSC
 
 Problems<br>
 ====
