@@ -152,6 +152,8 @@ Database
 Sounds
 ====
 
+Dealing with Bot Users
+
 Physical console
 ====
 
