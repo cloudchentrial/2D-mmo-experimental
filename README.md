@@ -7,6 +7,12 @@ Layer
 ====
 Upon Godot middleware.
 
+Start server, exporting .exe file
+====
+Open file of mmo_serverinst/index.js. <br>
+"npm start" at terminal. <br>
+
+
 Introduction<br>
 ====
 README shows the note of development that isn't yet ready for long-term managing.<br>
