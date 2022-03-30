@@ -115,7 +115,7 @@ Completeness of in-game scene.<br>
 
 Artistic
 ====
-Dive into: 偵探類. Scorpio.
+
 
 Advanced
 ====
