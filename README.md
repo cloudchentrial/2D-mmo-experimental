@@ -27,7 +27,7 @@ Client actor status updating rate: 5 times/sec. <br>
 2 times/sec ~ 5 times/sec <br>
 動態降低資料傳送成本目的. <br>
 長短線信號分布. <br><br>
-長-ws, 短-tcp, 大文檔串流 udp, pop3 <br><br>
+長-ws, 短-tcp, 大文檔串流 udp, pop3, quic <br><br>
 Identical function call between slaves and player self.<br>
 
 Protocol engineering <br>
