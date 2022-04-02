@@ -1,7 +1,7 @@
 # Massively multiplayer (multi-user) online experimental note
 Author
 
-實現預計: 西元2022至2040
+實現預計
 
 Layer
 ====
