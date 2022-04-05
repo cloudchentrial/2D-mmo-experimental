@@ -1,8 +1,6 @@
 # Massively multiplayer (multi-user) online experimental note
 Author
 
-實現預計
-
 Layer
 ====
 Upon Godot middleware.
