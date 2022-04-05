@@ -131,10 +131,7 @@ Shadow <br>
 Atmosphere <br>
 Geometry <br>
 Physics <br>
-Particle Motions Lighting <br>
-OpenXR detailed check <br>
-OpenXR visual <br>
-光照細節處理與將高細節源材料導入技術<br>
+Particle Motions <br>
 
 Backend clusters compute distribution 分布
 ====
