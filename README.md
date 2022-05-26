@@ -190,7 +190,7 @@ Respect<br>
 NB.<br>
 Publication of CEDEC Awards winner sincerely.<br>
 
-Decentralized and permanent.
+Decentralized and permanent in game assets
 ====
 NFT contained.
 
