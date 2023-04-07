@@ -1,4 +1,4 @@
-# Massively multiplayer (multi-user) online experimental note
+# Massively multiplayer (multi-user) online experimental
 Author
 
 Layer
@@ -143,7 +143,7 @@ Backend worker thread compute distribution 分布
 Client thread compute distribution 分布
 ====
 
-Network topology
+Network topology (LAN, Dedicated server)
 ====
 
 Distribtion computing for Internet of things (Mud)
