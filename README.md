@@ -31,7 +31,7 @@ Identical function call between slaves and player self.<br>
 Protocol engineering <br>
 ====
 
-Levels editor <br>
+Level design <br>
 ====
 
 Status timeline<br>
