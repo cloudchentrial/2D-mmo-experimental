@@ -91,8 +91,8 @@ Artworks citation<br>
 Kidscancode <Dodge the Creeps!> <br>
 Ex-roommate c socket chat code documentation.<br>
 
-In-game content note<br>
-====
+### In-game content <br>
+
 Completeness of in-game functions<br>
 Complete<br>
  - Shoots.<br>
