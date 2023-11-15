@@ -6,13 +6,13 @@ Author
 Upon Godot Engine
 
 ### Start server, exporting .exe file
-====
+
 Open file "mmo_serverinst/index.js". <br>
 "npm start" at terminal. <br>
 
 
 ### Introduction<br>
-====
+
 README shows the note of development that isn't yet ready for long-term managing.<br>
 System of entertainment project.
 Filing example of entire 2D MMO plain creation and its related.<br>
@@ -20,7 +20,7 @@ Continuously establish common pattern and functions of MMOG developed by pass 50
 
 
 ### Main system and overall structures <br>
-====
+
 Client actor status updating rate: 5 times/sec. <br>
 2 times/sec ~ 5 times/sec <br>
 動態降低資料傳送成本目的. <br><br>
@@ -29,13 +29,13 @@ Client actor status updating rate: 5 times/sec. <br>
 Identical function call between slaves and player self.<br>
 
 ### Protocol files <br>
-====
+
 
 ### Level design <br>
-====
+
 
 ### Status of development timeline<br>
-====
+
 2018.12.01
 ![2018_10_14](https://user-images.githubusercontent.com/31240078/137329400-551085fe-5256-42b7-85ed-5aacad4a14d1.jpg)
 Status and issues<br>
@@ -66,7 +66,7 @@ Intuitive IDE for similar creations.<br>
 Data transfering cost control observation dashboard.<br>
 
 ### Credits<br>
-====
+
 Tools and Repositories<br>
 Godot Engine<br>
 Node.js<br>
@@ -116,12 +116,8 @@ Completeness of in-game scene.<br>
 
 ### Technical Art (include shader programming, etc.)
 
-### Advanced
-====
 Deep models in 3D, 3D reconstruction from few real-world object photo.
-
 Photorealistic and lighting process
-====
 Camera controlling shake 螢幕控制震盪 <br>
 Camera Controlling stun <br>
 Renderer <br>
@@ -133,36 +129,36 @@ Physics <br>
 Particle Motions <br>
 
 ### Backend clusters compute distribution 分布
-====
+
 
 ### Backend worker thread compute distribution 分布
-====
+
 
 ### Client thread compute distribution 分布
-====
+
 
 ### Network topology (WAN, Dedicated server)
-====
+
 
 ### Distribtion computing for Internet of things (Mud)
-====
+
 
 
 ### Unit tests and stress testing
-====
+
 
 ### Database
-====
+
 
 ### Sound engineering
-====
+
 
 ### Cheat detection
 Dealing with Bot Users
 
 
 ### Problems<br>
-====
+
 1.Obvious network connection latency => will be solved.<br> 
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
 3.No docker yet in use.<br> 
@@ -182,10 +178,10 @@ Dealing with Bot Users
 17.Distributed systems figuring.
 
 ### Respect<br> 
-====
+
 
 ### TODO
-====
+
 1. State Stack implementation.<br>
 2. Node "Player" substitute GlobalDictionary.tscn/gd
 3. Project MMOCustom.
@@ -194,5 +190,5 @@ Dealing with Bot Users
 6. Using TCP streaming instead of Websocket streaming. And, Compress data transfer.
 
 ### 3rd parties
-====
+
 
