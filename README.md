@@ -1,17 +1,17 @@
 ## Massively multiplayer online system experimental
 Author
 
-### Layer
-====  
+### Layer  
+
 Upon Godot Engine
 
-###Start server, exporting .exe file
+### Start server, exporting .exe file
 ====
 Open file "mmo_serverinst/index.js". <br>
 "npm start" at terminal. <br>
 
 
-###Introduction<br>
+### Introduction<br>
 ====
 README shows the note of development that isn't yet ready for long-term managing.<br>
 System of entertainment project.
@@ -19,7 +19,7 @@ Filing example of entire 2D MMO plain creation and its related.<br>
 Continuously establish common pattern and functions of MMOG developed by pass 50 years and future MMOG. i.e. Filing collective of mmo-featured.<br>
 
 
-###Main system and overall structures <br>
+### Main system and overall structures <br>
 ====
 Client actor status updating rate: 5 times/sec. <br>
 2 times/sec ~ 5 times/sec <br>
@@ -28,13 +28,13 @@ Client actor status updating rate: 5 times/sec. <br>
 長-ws, 短-tcp, 大文檔串流 udp, pop3, quic <br><br>
 Identical function call between slaves and player self.<br>
 
-###Protocol files <br>
+### Protocol files <br>
 ====
 
-###Level design <br>
+### Level design <br>
 ====
 
-###Status of development timeline<br>
+### Status of development timeline<br>
 ====
 2018.12.01
 ![2018_10_14](https://user-images.githubusercontent.com/31240078/137329400-551085fe-5256-42b7-85ed-5aacad4a14d1.jpg)
@@ -57,7 +57,7 @@ Available<br>
  - Timer built.<br>
  - Shoot and online collide detection.<br>
 
-###Support and extensions<br>
+### Support and extensions<br>
 ====
 Multi-platform support including linux, windows, android, iOS, and bsd.<br>
 Real-time and static interaction simutaneously.<br>
@@ -65,7 +65,7 @@ Sub-system intergration solutions with GodotEngine.<br>
 Intuitive IDE for similar creations.<br>
 Data transfering cost control observation dashboard.<br>
 
-###Credits<br>
+### Credits<br>
 ====
 Tools and Repositories<br>
 Godot Engine<br>
@@ -114,9 +114,9 @@ Completeness of in-game scene.<br>
  - Character<br>
  - Skills<br>
 
-###Technical Art (include 
+### Technical Art (include shader programming, etc.)
 
-Advanced
+### Advanced
 ====
 Deep models in 3D, 3D reconstruction from few real-world object photo.
 
@@ -132,35 +132,36 @@ Geometry <br>
 Physics <br>
 Particle Motions <br>
 
-###Backend clusters compute distribution 分布
+### Backend clusters compute distribution 分布
 ====
 
-###Backend worker thread compute distribution 分布
+### Backend worker thread compute distribution 分布
 ====
 
-###Client thread compute distribution 分布
+### Client thread compute distribution 分布
 ====
 
-###Network topology (LAN, Dedicated server)
+### Network topology (WAN, Dedicated server)
 ====
 
-###Distribtion computing for Internet of things (Mud)
+### Distribtion computing for Internet of things (Mud)
 ====
 
 
-###Unit tests and stress testing
+### Unit tests and stress testing
 ====
 
-###Database
+### Database
 ====
 
-###Sound engineering
+### Sound engineering
 ====
 
+### Cheat detection
 Dealing with Bot Users
 
 
-###Problems<br>
+### Problems<br>
 ====
 1.Obvious network connection latency => will be solved.<br> 
 2.Uncomplete sub-systems built, especially player's skill system.<br> 
@@ -180,10 +181,10 @@ Dealing with Bot Users
 16.Double mode, "Play Levels", "Host", "Find Game" and "Online world".
 17.Distributed systems figuring.
 
-###Respect<br> 
+### Respect<br> 
 ====
 
-###TODO
+### TODO
 ====
 1. State Stack implementation.<br>
 2. Node "Player" substitute GlobalDictionary.tscn/gd
@@ -192,6 +193,6 @@ Dealing with Bot Users
 5. 3 function in Start Scene, Start, Online World, Company.
 6. Using TCP streaming instead of Websocket streaming. And, Compress data transfer.
 
-###3rd parties
+### 3rd parties
 ====
 
