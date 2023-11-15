@@ -139,11 +139,6 @@ Particle Motions <br>
 
 ### Network topology (WAN, Dedicated server)
 
-
-### Distribtion computing for Internet of things (Mud)
-
-
-
 ### Unit tests and stress testing
 
 
