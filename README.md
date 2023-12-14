@@ -31,8 +31,9 @@ Identical function call between slaves and player self.<br>
 ### Protocol files <br>
 
 ### Security <br>
-SSL/TLS connections:
-AES encryption:
+SSL/TLS connections:  
+AES encryption:  
+
 
 ### Level design <br>
 
