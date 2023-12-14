@@ -1,7 +1,7 @@
 ## Massively multiplayer online experimental
 Author
 
-### Layer  
+### Application Layer  
 
 Upon Godot Engine
 
@@ -30,6 +30,9 @@ Identical function call between slaves and player self.<br>
 
 ### Protocol files <br>
 
+### Security <br>
+SSL/TLS connections:
+AES encryption:
 
 ### Level design <br>
 
